@@ -1,0 +1,11 @@
+import pyautogui
+import time
+
+pyautogui.moveTo(496, 258)
+pyautogui.click()
+
+'''
+// for i in range(500):
+//   pyautogui.write("p")//   time.sleep(0.000001)
+//   pyautogui.press("Enter")
+
